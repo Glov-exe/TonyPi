@@ -2,14 +2,14 @@
 人工智能实训TonyPi代码
 
 
-运行代码
+下面是运行的代码
 语音控制/home/pi/TonyPi/Functions/voice_interaction/voice_control5.py
 kimi大模型调用/home/pi/TonyPi/Functions/text3.py
 豆包大模型调用/home/pi/TonyPi/Functions/text4.py
 目标检测代码/home/pi/yolov5-6.0/test.py
 OpenCV颜色识别/home/pi/TonyPi/Functions/learn/OpenCV/Color_Warning.py
 
-调用的部分代码
+下面是调用的部分代码
 语音录制/home/pi/TonyPi/Functions/learn/audio/luzhi.py
 语音转文字/home/pi/TonyPi/Functions/learn/audio/ita_ws_python.py
 音频存储/home/pi/TonyPi/Functions/learn/audio/files/Record.wav
